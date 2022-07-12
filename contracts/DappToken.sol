@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: MIT
-pragma solidity >=0.4.2;
+pragma solidity >=0.6.0;
 
 contract DappToken {
 	// Name
@@ -41,7 +41,6 @@ contract DappToken {
 		return true;
 	}
 
-	 // approve
 	 function approve(address _spender, uint256 _value) public returns (bool success) {
 	 	allowance[msg.sender][_spender] = _value;
 
