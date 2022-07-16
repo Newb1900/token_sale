@@ -31,7 +31,6 @@ contract DappTokenSale {
 		emit Sell(msg.sender, _numberOfTokens);
 	}
 
-	// Ending Token DappTokenSale
 	function endSale() public {
 		require(msg.sender == admin);
 		require(tokenContract.transfer(admin, tokenContract.balanceOf(address(this))));
