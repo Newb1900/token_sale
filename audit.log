@@ -1,0 +1,13 @@
+t=2022-07-24T16:02:54-0400 lvl=info msg=Configured api=signer audit log=audit.log
+t=2022-07-24T17:53:48-0400 lvl=info msg=Configured api=signer audit log=audit.log
+t=2022-07-24T17:56:47-0400 lvl=info msg=Configured api=signer audit log=audit.log
+t=2022-07-24T18:01:24-0400 lvl=info msg=Configured api=signer audit log=audit.log
+t=2022-07-24T18:03:21-0400 lvl=info msg=Configured api=signer audit log=audit.log
+t=2022-07-24T18:07:26-0400 lvl=info msg=Configured api=signer audit log=audit.log
+t=2022-07-24T18:09:07-0400 lvl=info msg=Version    api=signer type=request metadata="{\"remote\":\"NA\",\"local\":\"NA\",\"scheme\":\"ipc\",\"User-Agent\":\"\",\"Origin\":\"\"}"
+t=2022-07-24T18:09:07-0400 lvl=info msg=Version    api=signer type=response data=6.1.0 error=nil
+t=2022-07-24T18:14:44-0400 lvl=info msg=Configured api=signer audit log=audit.log
+t=2022-07-24T18:19:01-0400 lvl=info msg=Version    api=signer type=request metadata="{\"remote\":\"NA\",\"local\":\"NA\",\"scheme\":\"ipc\",\"User-Agent\":\"\",\"Origin\":\"\"}"
+t=2022-07-24T18:19:01-0400 lvl=info msg=Version    api=signer type=response data=6.1.0 error=nil
+t=2022-07-24T18:20:30-0400 lvl=info msg=List       api=signer type=request  metadata="{\"remote\":\"NA\",\"local\":\"NA\",\"scheme\":\"ipc\",\"User-Agent\":\"\",\"Origin\":\"\"}"
+t=2022-07-24T18:21:47-0400 lvl=info msg=List       api=signer type=request  metadata="{\"remote\":\"NA\",\"local\":\"NA\",\"scheme\":\"ipc\",\"User-Agent\":\"\",\"Origin\":\"\"}"
